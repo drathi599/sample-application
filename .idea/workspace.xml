@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b7c697be-2043-42ce-ae1d-c9fa4874f5b0" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/app/views/static_pages/about.html.erb" />
       <change beforePath="" afterPath="$PROJECT_DIR$/app/views/static_pages/contact.html.erb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/db/schema.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/application_system_test_case.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/controllers/.keep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/controllers/static_pages_controller_test.rb" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/.keep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/files/.keep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/helpers/.keep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/integration/.keep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/mailers/.keep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/models/.keep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/system/.keep" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/test/test_helper.rb" />
       <change beforePath="$PROJECT_DIR$/.idea/sample-application.iml" afterPath="$PROJECT_DIR$/.idea/sample-application.iml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" />
@@ -280,12 +293,12 @@
       <updated>1516166365983</updated>
       <workItem from="1516166367092" duration="4934000" />
       <workItem from="1516178513486" duration="10000" />
-      <workItem from="1516178661217" duration="2448000" />
+      <workItem from="1516178661217" duration="2604000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7392000" />
+    <option name="totallyTimeSpent" value="7548000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
