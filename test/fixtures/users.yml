@@ -1,0 +1,4 @@
+dumy:
+  name: Dikshant Rathi
+  email: dikshant.rathi@oyorooms.com
+  password_digest: <%= User.digest('password') %>
